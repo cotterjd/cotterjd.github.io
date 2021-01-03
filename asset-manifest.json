@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/cotterjd.github.io/static/css/main.c848f18b.chunk.css",
-    "main.js": "/cotterjd.github.io/static/js/main.83c42a97.chunk.js",
-    "main.js.map": "/cotterjd.github.io/static/js/main.83c42a97.chunk.js.map",
+    "main.js": "/cotterjd.github.io/static/js/main.5e9704d3.chunk.js",
+    "main.js.map": "/cotterjd.github.io/static/js/main.5e9704d3.chunk.js.map",
     "runtime-main.js": "/cotterjd.github.io/static/js/runtime-main.677c6c02.js",
     "runtime-main.js.map": "/cotterjd.github.io/static/js/runtime-main.677c6c02.js.map",
     "static/js/2.c106869f.chunk.js": "/cotterjd.github.io/static/js/2.c106869f.chunk.js",
@@ -11,13 +11,12 @@
     "static/js/3.e5789e17.chunk.js.map": "/cotterjd.github.io/static/js/3.e5789e17.chunk.js.map",
     "index.html": "/cotterjd.github.io/index.html",
     "static/css/main.c848f18b.chunk.css.map": "/cotterjd.github.io/static/css/main.c848f18b.chunk.css.map",
-    "static/js/2.c106869f.chunk.js.LICENSE.txt": "/cotterjd.github.io/static/js/2.c106869f.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/cotterjd.github.io/static/media/logo.6ce24c58.svg"
+    "static/js/2.c106869f.chunk.js.LICENSE.txt": "/cotterjd.github.io/static/js/2.c106869f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.677c6c02.js",
     "static/js/2.c106869f.chunk.js",
     "static/css/main.c848f18b.chunk.css",
-    "static/js/main.83c42a97.chunk.js"
+    "static/js/main.5e9704d3.chunk.js"
   ]
 }
