@@ -67,10 +67,10 @@ const GithubIcon = styled.a`
 function App() {
   return (
     <Page>
-      <A href="/resume">Resume</A>
-      <A href="/cant-stop">Can't Stop Game</A>
-      <A href="/w2v1099">Taxes Calculator</A>
-      <A href="/curt-calendar">Calendar</A>
+      <A href="/resume">Resume</A><br />
+      <A href="https://cant-stop.vercel.app/">Can't Stop Game</A><br />
+      <A href="/w2v1099">Taxes Calculator</A><br />
+      <A href="/curt-calender">Calendar</A><br />
     </Page>
   );
 }
