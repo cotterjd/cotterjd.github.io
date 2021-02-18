@@ -1,6 +1,7 @@
 import styled from 'styled-components'
 import './App.css'
 import githubIcon from './images/github.png'
+import nodeIcon from './images/node_logo.png'
 
 export const A = styled.a`
   :link {
@@ -71,6 +72,8 @@ function App() {
       <A href="https://cant-stop.vercel.app/">Can't Stop Game</A><br />
       <A href="/w2v1099">Taxes Calculator</A><br />
       <A href="/curt-calender">Calendar</A><br />
+
+      <img src={nodeIcon} />
     </Page>
   );
 }
