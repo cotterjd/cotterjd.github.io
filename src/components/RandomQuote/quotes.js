@@ -164,13 +164,13 @@ export default [
   `"Every government interferes with every other government's elections every time. That's what they do. That's why you pay intelligence services." - Edward Snowden`,
   `"The bottom line is I found evidence again and again as I went deeper and deeper levels of government, higher and higher clearances that these programs were never about terrorism; that's the public justification for them. They're about economic espionage, they're about diplomatic manipulation, they're about social influence, they're about power." - Edward Snowden`,
   `“I would unite with anybody to do right and with nobody to do wrong." - Frederick Douglass`,
-  `"You are who you are in secret" - Dekota Marsh`
+  `"You are who you are in secret" - Dekota Marsh`,
   `"The only true barrier to truth is the presumption that you already have it." - Chuck Missler`,
   `"When I studied science in school it was...open to all knowledge...But now it has become closed minded to much of life, the part that can't be explained in material means. It is foreign to me now, though I continue to study it daily." -Lakett`,
   `"I won't waste my time trying to convince a skeptical, scientific, logical mind that an entire universe didn't just pop into existence without cause or reason. Lawrence Krauss just doesn't explain it, nor can you. We can. Sure you gotta believe in the invisible evil Jehovah, but you know that's just a little more of a stretch than believing in a multiverse that cannot be proven or relying on unknown quantum mechanics for your existence." -Jonathan Brooks`,
   `“Our Constitution was made only for a moral and religious people. It is wholly inadequate to be the government of any other.” -President John Adams`,
   `"Man there isn't a lot of tread left. I'm out for sure" - Jacob Stangl`,
-  `"impossible is nothing"`
+  `"impossible is nothing"`,
   `"I don't know what to do with these long elbows of mine" -Casey Cotter`,
   `"if Jesus had never lived, we would not have been able to invent him." -Walter Wink`,
   `"Your challenge has been met, cause with a breath I could snap your neck. This won't be like the first time you tried, cause my patience and mercy for you has run dry" -Oh Sleeper`,
