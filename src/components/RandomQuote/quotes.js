@@ -26,7 +26,7 @@ export default [
   `"Don't criticize what you can't understand" - Bob Dylan`,
   `"It's been a great fun" - Scotty Pippin`,
   `"Trump is the first president in a generation that sought to end wars rather than start them" - Rand Paul`,
-  `"Morgan Freeman said it best. When asked how to stop racism. His immediate answer was "Stop talking about it." - Klockwerks`,
+  `"Morgan Freeman said it best. When asked how to stop racism. His immediate answer was 'Stop talking about it.'" - Klockwerks`,
   `"I don't care what anybody believes as long as it makes them a better person" - John batbour`,
   `"When the second amendment ...They were using muskets. Yeah because they were fighting muskets!" - Sam Tripoli`,
   `"Democrats will give trillions to a death industry while you can't pay rent at home during an economic depression" - Jimmy Dore`,
