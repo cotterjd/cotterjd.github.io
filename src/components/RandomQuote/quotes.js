@@ -133,7 +133,7 @@ export const goodQuotes = [
   `"Be relentless in your iterations. Be ruthlessly honest in your assessments." - Greg Starling`,
   `"Localization is the cure for polarization" - Adam Kokesh`,
   // `"Everybody benefits from competition and the division of labor, even on a global scale." - me`,
-  `"I would sum up my foreign policy as the following: I don't want to run the world. I don't know how to run the world. The Constitution doesn't give me the authority to run the world. We should mind our own business. And I would sum up my domestic policy as the following: I don't want to run your life. I don't know how to run your life. The Constitution doens't give me the authority to run your life. We shuld respect individual liberty in this country." - Ron Paul`,
+  `"I would sum up my foreign policy as the following: I don't want to run the world. I don't know how to run the world. The Constitution doesn't give me the authority to run the world. We should mind our own business. And I would sum up my domestic policy as the following: I don't want to run your life. I don't know how to run your life. The Constitution doesn't give me the authority to run your life. We should respect individual liberty in this country." - Ron Paul`,
   `"Pay no attention to the man behind the curtain" - The 'wizard' of Oz`,
   // `"It's important to distinguish between terrorism and resisting occupation" - (some Qatar official I think ...at the UN General Assembly General Debate)
   `"We killed hundreds of thousands of people lost thousands of our own, spent a trillion dollars all to eliminate a WMD threat that never existed" - Tucker Carlson on Iraq war`,
