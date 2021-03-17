@@ -28,8 +28,8 @@ export const fairQuotes = [
   `"MSNBC will tell you the exact opposite of reality" - lefty Jimmy Dore`,
   `"Trump is the first president in a generation that sought to end wars rather than start them" - Rand Paul`,
   `"If you give people what they want, they will tolerate being ruled"`,
-  `"I agree with you 100% that we are better off localizing. I don't think that this nonsense of Americans that [explicitive] hate one another spread out all over the place with nothing in common with one another should be grappling over control of the federal government. I think it's dangerous. I think it's gonna get people [Explicitive] hurt. And so you are absolutely correct that we should break up the United States and let people figure this [explicitive] out within their communities however they want to organize it" -  Cristopher Cantwell`,
-  `"Don't try to ruin my life with lies when your life can be ruined by the truth" - Gena Carano`,
+  `"I agree with you 100% that we are better off localizing. I don't think that this nonsense of Americans that hate one another spread out all over the place with nothing in common with one another should be grappling over control of the federal government. I think it's dangerous. I think it's gonna get people hurt. And so you are absolutely correct that we should break up the United States and let people figure this out within their communities however they want to organize it" -  Cristopher Cantwell`,
+  `"Don't try to ruin my life with lies when your life can be ruined by the truth" - Gena Carano`
 ]
 export const greatQuotes = [
   `“If we lose freedom here, there’s no place to escape to. This is the last stand on earth…We’ll preserve for our children this, the last best hope of man on earth, or we’ll sentence them to take the last step into a thousand years of darkness.” -Ronald Reagan`,
@@ -44,42 +44,42 @@ export const greatQuotes = [
   `"Shall we expect some transatlantic military giant, to step the Ocean, and crush us at a blow? Never! All the armies of Europe, Asia, and Africa combined… could not by force, take a drink from the Ohio, or make a track on the Blue Ridge, in a trial of a thousand years. At what point then is the approach of danger to be expected? I answer, if it ever reach us, it must spring up amongst us. It cannot come from abroad. If destruction be our lot, we must ourselves be its author and finisher. As a nation of freemen, we must live through all time, or die by suicide." - Abe Lincoln`,
   `"First solve the problem. Then write the code" - John Johnson`,
   `"If you don't read the paper you're uninformed. If you do read the paper you're misinformed." - Denzel Washington`,
-  `"If goods stop crossing borders armies will" - Ron Paul`,
   `"The only things stopping me today are: genetics, lack of will, income, brain chemistry, and external events" - Eddie Pepitone`,
   `"Localization is the cure for polarization" - Adam Kokesh`,
   `"Be relentless in your iterations. Be ruthlessly honest in your assessments." - Greg Starling`,
   `"Producing beautiful software is not a goal. Solving complex technical problems is not a goal. Writing bug-free code is not a goal. Using sexy programming languages is not a goal. Add revenue. Reduce costs. Those are your only goals."`,
-  `“The first thing I’m going to tell my successor, is watch the generals, to avoid feeling that just because they’re military men, their opinions on military matters are worth a damn.” - JFK`,
   `"There is no instance of a country having benefited from prolonged warfare" - Sun Tzu`,
   `"Contributing to maintain an army at a distance causes the people to be impoverished" - Sun Tzu`,
   `"Science progresses one funeral at a time"`,
   `"Life was made for everyone and love is the prize" - Tim Bergling`,
-  `"Peace, commerce, and honest friendship with all nations; entangling alliances with none." - Thomas Jefferson`, 
+  `"Peace, commerce, and honest friendship with all nations; entangling alliances with none." - Thomas Jefferson`,
   `"Your future is whatever you make it - Emmit Brown (Doc)`,
   `"Anybody can make their future whatever they want it to be - Emmit Brown (Doc)`,
-  `"I'm not here to hear comforting lies. I want to hear uncomfortable, unsettling truths." - Sam Tripoli`,
   `"I'm not here to prove what women can do. I'm just here to win." - Nikki Van Schyndel`,
   `"Goebbels was in favor of free speech for views he liked. So was Stalin. If you’re really in favor of free speech, then you’re in favor of freedom of speech for precisely the views you despise. Otherwise, you’re not in favor of free speech" -Noam Chomsky`,
   `"I prefer Dangerous Freedom over peaceful slavery" - Thomas Jefferson`,
   `"Once weapons were manufactured to fight wars, now wars are manufactured to sell weapons" - Arundhati Roy`,
-  `"I don't want to be a conspiracy theorist but I'm not an idiot either" - Jimmy Dore`,
   `"The performance you should worry about is the performance of the wrinkled wad of protein between your ears. Computers are orders of magnitude cheaper and faster than humans. Complexity is far more dangerous than poor runtime performance." - Floyd May`,
   `"Keep learning and you'll go far" - Adam Booth`,
   `"You can't have the fruits without the roots" - Stephen R. Covey`,
   `"A long, healthy, and happy life is the result of making contributions, of having meaningful projects that are personally exciting and contribute to and bless the lives of others." - Stephen R. Covey`,
   `"To keep progressing, we must learn, commit, and do—learn, commit, and do—and learn, commit, and do again." - Stephen R. Covey`,
-  `"Your economic security does not lie in your job; it lies in your own power to produce—to think, to learn, to create, to adapt." - Stephen R. Covey`,
+  `"Your economic security does not lie in your job; it lies in your own power to produce—to think, to learn, to create, to adapt." - Stephen R. Covey`
 ]
 export const goodQuotes = [
   `"Look around. There's no experts here." - Ryan Kelly`,
+  `"If goods stop crossing borders armies will" - Ron Paul`,
+  `“The first thing I’m going to tell my successor, is watch the generals, to avoid feeling that just because they’re military men, their opinions on military matters are worth a damn.” - JFK`,
   `"He who would trade liberty for some temporary security deserves neither liberty nor securty. If we restrict liberty to attain security we will lose both" - Ben Franklin`,
   `"if we keep letting the government gain more power during a crisis then what's to stop them from creating a crisis to gain more power?" - Luke Rudkowski`,
   `"failure is success if we learn from it" - Malcolm Forbes`,
   `"if they knew what we were up to they would chase us down the street and hang us" - George H.W. Bush`,
   `"A tyranny sincerely exercised for the good of its victims may be the most oppressive. It would be better to live under robber barons than under omnipotent moral busybodies...who torment us for our own good...without end...with the approval of their own conscience" - C.S. Lewis`,
   `“Success is not final, failure is not fatal, it is the courage to continue that counts.” -Winston Churchhill`,
+  `"I'm not here to hear comforting lies. I want to hear uncomfortable, unsettling truths." - Sam Tripoli`,
   `"Anybody can make their future whatever they want it to be - doc (emmit brown)`,
   `"Bread is the paper of the food industry. You write your sandwich on it" - Dwight Shrute`,
+  `"I don't want to be a conspiracy theorist but I'm not an idiot either" - Jimmy Dore`,
   `"Those who control the past control the future, and those who control the present control the past." - George Orwell`,
   `"Democracy is two wolves and a sheep voting for what's for dinner"`,
   `"I'm not a bigot, but I am confused" - Joe Rogan`,
@@ -113,7 +113,7 @@ export const goodQuotes = [
   `"if someone says something bad about Muslims, they draw more heat than someone who bombs Muslims" - Dave Smith`,
   `"if the American people allow private banks to control the issuance of their currency, first by inflation and then by deflation, the banks and corporations that will grow up around them will deprive the people of all their property until their children grow up homeless in the continent their fathers concerred.`,
   `"Teaching knowledge is indoctrination" - Barbery Oakley`,
-  `"we've been in Afghanistan for longer than world war 1 and world war 2 combined and have nothing to show for it except for one legged ****** vets" Dave Smith`,
+  `"we've been in Afghanistan for longer than world war 1 and world war 2 combined and have nothing to show for it except for one legged vets" - Dave Smith`,
   `"Patriotism is not about loyalty to government" - Edward Snowden`,
   `"If patriotism were defined, not as blind obedience to government, not as submissive worship to flags and anthems, but rather as love of one's country, one's fellow citizens (all over the world), as loyalty to the principles of justice and democracy, then patriotism would require us to disobey our government, when it violated those principles." - Howard Zinn`,
   `"Democracy is the right of the 51% to piss in the soup of the 49%" - Gene epstein`,
@@ -156,9 +156,9 @@ export const goodQuotes = [
   `"we know Saddam Huissen had weapons of mass destruction. We have the receipts."`,
   `"Conservatives are Progressives driving the speed limit"`,
   // `"If he was an American president he'd be on mount Rushmore next to Lincoln" Dave on assad
-//  `"As for Tucker Carlson, he arguably cemented his position as the country’s most high-profile critic of America’s wars."
-//The guardian
-//https://amp.theguardian.com/us-news/2018/apr/13/syria-intervention-conservative-rightwing-opposition-trump
+  //  `"As for Tucker Carlson, he arguably cemented his position as the country’s most high-profile critic of America’s wars."
+  //The guardian
+  //https://amp.theguardian.com/us-news/2018/apr/13/syria-intervention-conservative-rightwing-opposition-trump
 
   `"Old cold war McCarthyism has become new warm war fantasy politics". - Jim Kavanagh`,
   // `"Negro men are being sent 8000 miles away to secure liberties in South East Asia that they haven't found in Southwest Georgia
@@ -194,7 +194,7 @@ export const goodQuotes = [
   `"impossible is nothing"`,
   `"You know all the chickens had a common ancestor?...It was a chicken." - Dr. Kent Hovind`,
   `"The issue shouldn't be if the Lord's on my side, the issue should be that I am on the Lord's side" -Abraham Lincoln`,
-  `"I don't give people hell. I tell the truth, and they think it's hell." -Harry Truman`,
+  `"I don't give people hell. I tell the truth, and they think it's hell." -Harry Truman`
 ]
 
 export default [
@@ -203,5 +203,5 @@ export default [
   ...goodQuotes,
   ...greatQuotes,
   ...greatQuotes,
-  ...greatQuotes,
-]
+  ...greatQuotes
+];
