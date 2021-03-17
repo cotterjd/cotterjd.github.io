@@ -9,7 +9,9 @@ export function RandomQuote(props) {
   );
 
   function getRandomQuote () {
-    return quotes[Math.floor(Math.random()*quotes.length)]
+    cosnt randomIndex = Math.floor(Math.random()*quotes.length)
+    console.log(quotes.length, index)
+    return quotes[randomIndex]
   }
 }
 
