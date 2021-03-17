@@ -14,7 +14,7 @@ export const fairQuotes = [
   `"you can define communism as the abolition of private property" - Marx`,
   `"We citizens are being duped and are nothing but cash cows financing a bloated devious criminal enterprise known as the federal government" - FamQ Dbltap`,
   `"Obama broke their principles and Trump broke their brain" - Dave Smith`,
-  `"That's why I could never be a leftist. I like to laugh too much - Mance Rader`,
+  `"That's why I could never be a leftist. I like to laugh too much" - Mance Rader`,
   `"The idea that anybody can get a vote on your freedom is disgusting" - Dave Smith`,
   `"It's not about kissing trump's ass, it's about kissing the truth's butt" - Alex Jones`,
   `"Many pro-life advocates were horrified by the sweeping and controversial new abortion laws in New York and other states. Many pro-choice advocates were horrified by the sweeping and controversial new abortion laws in Alabama and other states. Yet in all of these states, the laws were passed with strong local support."`,
