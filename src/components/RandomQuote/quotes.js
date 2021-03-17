@@ -11,7 +11,7 @@ export const fairQuotes = [
   `"Being a racist today is recognizing differences between racial groups so yeah, I'm a racist and every honest person is a racist" - Christopher Cantwell`,
   `"The last capitalist we hang will be the one who sold us the rope" - Marx`,
   `"We have no compassion and we ask no compassion from you. When our time comes we will make no excuse for the terror" - Marx`,
-  `"you can define communism as the abolition of private property" - Marx`,
+  `"You can define communism as the abolition of private property" - Marx`,
   `"We citizens are being duped and are nothing but cash cows financing a bloated devious criminal enterprise known as the federal government" - FamQ Dbltap`,
   `"Obama broke their principles and Trump broke their brain" - Dave Smith`,
   `"That's why I could never be a leftist. I like to laugh too much" - Mance Rader`,
@@ -27,7 +27,7 @@ export const fairQuotes = [
   `"military force is a very blunt and not very effective instrument to promote human rights" - Stephen Zunes`,
   `"MSNBC will tell you the exact opposite of reality" - lefty Jimmy Dore`,
   `"Trump is the first president in a generation that sought to end wars rather than start them" - Rand Paul`,
-  `"if you give people what they want, they will tolerate being ruled"`,
+  `"If you give people what they want, they will tolerate being ruled"`,
   `"I agree with you 100% that we are better off localizing. I don't think that this nonsense of Americans that [explicitive] hate one another spread out all over the place with nothing in common with one another should be grappling over control of the federal government. I think it's dangerous. I think it's gonna get people [Explicitive] hurt. And so you are absolutely correct that we should break up the United States and let people figure this [explicitive] out within their communities however they want to organize it" -  Cristopher Cantwell`,
   `"Don't try to ruin my life with lies when your life can be ruined by the truth" - Gena Carano`,
 ]
@@ -127,7 +127,7 @@ export const goodQuotes = [
   `"While I have met only a few of the people living on earth during my lifetime, I have yet to encounter a single person who has achieved such mastery over his life and conduct that he is now competent to begin passing judgment over, and reforming, others...then, let us use God’s, not Caesar’s, methods in helping to bring our fellow humans to a life of happiness, peace, and fulfillment" - Jacob G. Hornberger`,
   `"My major difference with conservatives is that they wish to conserve, rather than end, an economic system which is not only evil and immoral but also a denigration of the great God-given gifts of life, liberty, property, and conscience which once constituted the great heritage of this nation." - Jacob G. Hornberger`,
   `"Neoconservatives mistook Tel Aviv for the capital of the United States" - Russel Kirk`,
-  `"you'll be holy when you choose not to sin"`,
+  `"You'll be holy when you choose not to sin"`,
   `"When we advance governmental solutions, we are imploring the state to limit—via violence—particular voluntary exchanges between informed, consenting adults."`,
   // `"Americans are very good at blowing stuff up. They are less good at understanding where the pieces fall once they're done." - Nikola Tesla (youtuber)
   `"We don't have an adversarial press. We just have a press that actually serves as the PR arm of the government." - George Szamuely`,
