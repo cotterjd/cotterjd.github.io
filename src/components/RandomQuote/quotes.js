@@ -67,7 +67,7 @@ export const greatQuotes = [
   `"Your economic security does not lie in your job; it lies in your own power to produce—to think, to learn, to create, to adapt." - Stephen R. Covey`
 ]
 export const goodQuotes = [
-  `"Look around. There's no experts here." - Ryan Kelly`,
+  `"Look around. There's no experts here." - Ryan Kelley`,
   `"If goods stop crossing borders armies will" - Ron Paul`,
   `“The first thing I’m going to tell my successor, is watch the generals, to avoid feeling that just because they’re military men, their opinions on military matters are worth a damn.” - JFK`,
   `"He who would trade liberty for some temporary security deserves neither liberty nor securty. If we restrict liberty to attain security we will lose both" - Ben Franklin`,
