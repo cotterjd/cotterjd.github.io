@@ -26,13 +26,15 @@ const Page = styled.div`
 function App() {
   return (
     <Page>
-      <RandomQuote />
       <A href="/resume">Resume</A><br />
       <A href="https://cant-stop.vercel.app/">Can't Stop Game</A><br />
       <A href="/w2v1099">Taxes Calculator</A><br />
       <A href="/curt-calender">Calendar</A><br />
 
       <img src={nodeIcon} />
+      <div>
+        <strong>Random quote of the day:</strong> <RandomQuote />
+      </div>
     </Page>
   );
 }

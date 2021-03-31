@@ -3,9 +3,9 @@ import quotes from "./quotes.js"
 
 export function RandomQuote(props) {
   return (
-    <div style={{ paddingBottom: 15, textAlign: `center` }}>
+    <span style={{ paddingBottom: 15, textAlign: `center` }}>
       {getRandomQuote()}
-    </div>
+    </span>
   )
 
   function getRandomQuote() {
