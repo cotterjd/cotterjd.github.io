@@ -27,7 +27,7 @@ function App() {
   return (
     <Page>
       <A href="/resume">Resume</A><br />
-      <A href="https://cant-stop.vercel.app/">Can't Stop Game</A><br />
+      <A href="https://cant-stop.cotterslist.com/">Can't Stop Game</A><br />
       <A href="/w2v1099">Taxes Calculator</A><br />
       <A href="/curt-calender">Calendar</A><br />
 
