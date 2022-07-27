@@ -1,5 +1,5 @@
 export const greatQuotes = [
-  `“If we lose freedom here, there’s no place to escape to. This is the last stand on earth…We’ll preserve for our children this, the last best hope of man on earth, or we’ll sentence them to take the last step into a thousand years of darkness.” -Ronald Reagan`,
+  `“If we lose freedom here, there’s no place to escape to. This is the last stand on earth…We’ll preserve for our children this, the last best hope of man on earth, or we’ll sentence them to take the last step into a thousand years of darkness.” - Ronald Reagan`,
   `"If Jesus had never lived, we would not have been able to invent him." - Walter Wink`,
   `"The only true barrier to truth is the presumption that you already have it." - Chuck Missler`,
   `“I would unite with anybody to do right and with nobody to do wrong." - Frederick Douglass`,
@@ -32,7 +32,7 @@ export const greatQuotes = [
   `"A long, healthy, and happy life is the result of making contributions, of having meaningful projects that are personally exciting and contribute to and bless the lives of others." - Stephen R. Covey`,
   `"To keep progressing, we must learn, commit, and do—learn, commit, and do—and learn, commit, and do again." - Stephen R. Covey`,
   `"Your economic security does not lie in your job; it lies in your own power to produce—to think, to learn, to create, to adapt." - Stephen R. Covey`,
-  `"Sometimes when I consider what tremendous consequences come from little things...I am tempted to thing...there are no littel things" - Bruce Barton`,
+  `"Sometimes when I consider what tremendous consequences come from little things...I am tempted to think...there are no littel things" - Bruce Barton`,
   `"Service is the rent we pay for the privilege of living on this earth" - N. Eldon Tanner`,
   `"640 kilobytes ought to be enough for anybody" - Bill Gates`,
   `"By 2005 or so, it will become clear that the internet's impact on the economy has been no greater than the fax machine's" - Paul Krugman`,
@@ -203,8 +203,6 @@ export const fairQuotes = [
   `"MSNBC will tell you the exact opposite of reality" - lefty Jimmy Dore`,
   `"Trump is the first president in a generation that sought to end wars rather than start them" - Rand Paul`,
   `"If you give people what they want, they will tolerate being ruled" - Dave Smith`,
-  `"I agree with you 100% that we are better off localizing. I don't think that this nonsense of Americans that hate one another spread out all over the place with nothing in common with one another should be grappling over control of the federal government. I think it's dangerous. I think it's gonna get people hurt. And so you are absolutely correct that we should break up the United States and let people figure this out within their communities however they want to organize it" -  Cristopher Cantwell`,
-  `"Don't try to ruin my life with lies when your life can be ruined by the truth" - Gena Carano`
 ]
 
 export default [
