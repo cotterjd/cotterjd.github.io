@@ -30,7 +30,9 @@ function App() {
       <A href="https://cant-stop.cotterslist.com/">Can't Stop Game</A><br />
       <A href="/w2v1099">Taxes Calculator</A><br />
       <A href="/curt-calender">Calendar</A><br />
-    <A href="https://jordancotter.wordpress.com">Blog</A><br />
+      <A href="https://list.cotterslist.com/">Ranked List</A><br />
+      <A href="https://time.cotterslist.com/">Time Auditor</A><br />
+      <A href="https://jordancotter.wordpress.com">Blog</A><br />
 
       <img src={nodeIcon} />
       <div>
